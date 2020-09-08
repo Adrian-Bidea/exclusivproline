@@ -1,5 +1,3 @@
-# exclusivproline
-# m-am apucat de multe, iar acum de altceva.
 {{ header }}
 <div id="product-product" class="container">
   
